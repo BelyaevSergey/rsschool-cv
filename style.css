@@ -1,0 +1,23 @@
+.position {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+        
+}
+
+hr {
+    background-color: none;
+}
+
+img {
+    display: block;
+    width: 100%;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+.font {
+    font-size: 20px;
+}
